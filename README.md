@@ -1,4 +1,4 @@
-<h1 align="center">💖 Hello, I'm April Joy D. 🌸</h1>
+<h1 align="center"> Hello, I'm April Joy D. 🌸</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dadulsawol&style=flat&color=FF69B4" alt="Profile Views" />
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-💡 <strong>Goal:</strong> Build smart, helpful systems with a touch of creativity and heart 💕<br>
-☕ <strong>Fun Fact:</strong> Powered by caffeine, pink aesthetics 🎀, and a love for tech 💻
+💡 <strong>Goal:</strong> Build smart, helpful systems with a touch of creativity and heart <br>
+☕ <strong>Fun Fact:</strong> Powered by caffeine and a love for tech 💻
 </p>
 
 <p align="center">
