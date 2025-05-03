@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 <strong>Information Systems Intern @ KMC Solutions</strong><br>
+🎓 <strong>IT OSS @ KMC Solutions</strong><br>
 💼 Working on:<br>
 🛒 <em>eCommerce App with Gemini AI Chatbot</em><br>
 🖥️ <em>IT Support & Technical Operations</em>
