@@ -1,5 +1,7 @@
 # 💖 Hello, I'm April Joy D. 🌸
 
+[![](https://visitcount.itsvg.in/api?id=dadulsawol&label=Profile%20Visits&color=FCA3B7&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 🎓 **Information Systems Intern @ KMC Solutions**  
 💼 Working on:
 - 🛒 *eCommerce App with Gemini AI Chatbot*
