@@ -47,7 +47,7 @@
 ---
 
 ### ✨ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+> 💻 *"Just a girl who codes — building dreams one line at a time."* <3
 
 ---
 
