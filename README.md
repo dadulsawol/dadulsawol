@@ -46,8 +46,7 @@
 
 ---
 
-### ✨ Dev Quote  
-> 💻 *"Just a girl who codes — building dreams one line at a time."* <3
+### > 💻 *"Just a girl who codes — building dreams one line at a time."* <3
 
 ---
 
