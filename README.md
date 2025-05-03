@@ -1,6 +1,22 @@
-# 💫 About Me:
-As a passionate and driven Information Systems student, I’m currently completing my internship at KMC Solutions, where I’m gaining hands-on experience in IT support and technical operations. I’m also working on a project focused on developing an eCommerce application that integrates the Gemini AI chatbot to enhance user interaction and support.<br><br>My current learning journey includes mastering Power BI for data visualization and diving into R programming for data analysis. I’m enthusiastic about using technology and analytics to solve real-world problems and continuously expanding my skills in data, AI, and systems development.<br><br>Let’s connect and learn together!
+<!-- 💖 Welcome Section (Code Style + Girly Vibes) -->
+```ts
+const april = {
+  name: "April Joy D. 🌸",
+  role: "Information Systems Intern @ KMC Solutions 💼",
+  workingOn: [
+    "eCommerce App 🛒 with Gemini AI Chatbot 🤖",
+    "IT Support & Technical Operations 🖥️"
+  ],
+  learning: [
+    "Power BI 📊",
+    "R Programming 📘",
+    "Data-Driven Storytelling 💡"
+  ],
+  goal: "Build smart, helpful systems with a touch of creativity and heart 💕",
+  funFact: "Powered by caffeine ☕, pink aesthetics 🎀, and a love for tech 💻"
+}
 
+<p align="center"> <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="Cute girl coding gif"> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dadulsawol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/april-joy-d-1b83462b9/) 
