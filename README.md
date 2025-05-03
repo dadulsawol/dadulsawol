@@ -14,7 +14,7 @@
 ☕ **Fun Fact:** Powered by caffeine, pink aesthetics 🎀, and a love for tech 💻
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif)" width="350" alt="Cute girl coding gif">
+  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="350" alt="Cute girl coding gif">
 </p>
 
 ---
