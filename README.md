@@ -69,7 +69,7 @@
 
 ---
 
-<h3 align="center" &gt; 💻 "Just a girl who codes — building dreams one line at a time." &lt;3</h3>
+<h3 align="center" > &gt; 💻 "Just a girl who codes — building dreams one line at a time." &lt;3</h3>
 
 ---
 
