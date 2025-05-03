@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="Cute girl coding gif">
-</p>
-
 # 💖 Hello, I'm April Joy D. 🌸
 
 🎓 **Information Systems Intern @ KMC Solutions**  
@@ -16,6 +12,10 @@
 
 💡 **Goal:** Build smart, helpful systems with a touch of creativity and heart 💕  
 ☕ **Fun Fact:** Powered by caffeine, pink aesthetics 🎀, and a love for tech 💻
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif)" width="350" alt="Cute girl coding gif">
+</p>
 
 ---
 
