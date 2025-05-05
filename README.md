@@ -1,11 +1,11 @@
-<h1 align="center"> Hello, I'm April Joy D. 🌸</h1>
+<h1 align="center"> Hello, I'm April Joy Deang 🌸</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dadulsawol&style=flat&color=FF69B4" alt="Profile Views" />
 </p>
 
 <p align="center">
-🎓 <strong>IT OSS @ KMC Solutions</strong><br>
+<strong>IT OSS Intern @ KMC Solutions</strong><br>
 💼 Working on:<br>
 🛒 <em>eCommerce App with Gemini AI Chatbot</em><br>
 🖥️ <em>IT Support & Technical Operations</em>
