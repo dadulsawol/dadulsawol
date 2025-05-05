@@ -79,12 +79,4 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=dadulsawol&limit=5&theme=pink_gradient&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dadulsawol&icon=2&color=8" />
-  </a>
-</p>
-
 <!-- 🌷 Made with love, glitter, and Git ✨ -->
