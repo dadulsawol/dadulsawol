@@ -5,20 +5,21 @@
 </p>
 
 <p align="center">
-<strong>IT OSS Intern @ KMC Solutions</strong><br>
-💼 Working on:<br>
-🛒 <em>eCommerce App with Gemini AI Chatbot</em><br>
-🖥️ <em>IT Support & Technical Operations</em>
+  <strong>Data Analyst Intern @ KMC Solutions</strong><br>
+  💼 Currently working on:<br>
+  📈 <em>Data Analytics & Visualization Projects</em><br>
+  🤖 <em>eCommerce Insights with Gemini AI Chatbot Integration</em><br>
+  🖥️ <em>IT Support & Technical Operations</em>
 </p>
 
 <p align="center">
-📚 Currently learning:<br>
-📊 Power BI | 📘 R Programming | 💡 Data-Driven Storytelling
+  📚 Expanding skills in:<br>
+  📊 Power BI | 📘 R Programming | 🧠 Data-Driven Storytelling
 </p>
 
 <p align="center">
-💡 <strong>Goal:</strong> Build smart, helpful systems with a touch of creativity and heart <br>
-☕ <strong>Fun Fact:</strong> Powered by caffeine and a love for tech 💻
+  🎯 <strong>Goal:</strong> Transform raw data into actionable insights with creativity and clarity <br>
+  ☕ <strong>Fun Fact:</strong> Fueled by coffee and a passion for solving problems with data 💻
 </p>
 
 <p align="center">
