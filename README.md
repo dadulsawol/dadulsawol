@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Data Analyst Intern @ KMC Solutions</strong><br>
+  <strong>IT OSS Inter @ KMC Solutions</strong><br>
   💼 Currently working on:<br>
   📈 <em>Data Analytics & Visualization Projects</em><br>
   🤖 <em>eCommerce Insights with Gemini AI Chatbot Integration</em><br>
