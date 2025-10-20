@@ -14,7 +14,7 @@
 
 <p align="center">
   📚 Expanding skills in:<br>
-  📊 Power BI | 📘 R Programming | 🧠 Data-Driven Storytelling
+  ☁️ Cloud Computing & AWS Services | 🛠️ Linux 
 </p>
 
 <p align="center">
