@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <strong>IT OSS Intern @ KMC Solutions</strong><br>
+  <strong>Technical Support Engineer @ Valueline</strong><br>
   💼 Currently working on:<br>
-  📈 <em>Data Analytics & Visualization Projects</em><br>
-  🤖 <em>eCommerce Insights with Gemini AI Chatbot Integration</em><br>
-  🖥️ <em>IT Support & Technical Operations</em>
+  ☁️ <em>Managing AWS Cloud Services & Support</em><br>
+  🖥️ <em>IT Support & Technical Operations</em><br>
+  📈 <em>Data Analytics & Visualization Projects</em>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  🎯 <strong>Goal:</strong> Transform raw data into actionable insights with creativity and clarity <br>
-  ☕ <strong>Fun Fact:</strong> Fueled by coffee and a passion for solving problems with data 💻
+  🎯 <strong>Goal:</strong> Transform raw data and cloud operations into actionable insights <br>
+  ☕ <strong>Fun Fact:</strong> Fueled by coffee and a passion for solving problems 💻
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 
 ---
 
-<h3 align="center" > &gt; 💻 "Just a girl who codes — building dreams one line at a time." &lt;3</h3>
+<h3 align="center"> &gt; 💻 "Just a girl who codes and manages cloud — building dreams one line at a time." &lt;3</h3>
 
 ---
 
